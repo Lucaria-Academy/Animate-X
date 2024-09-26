@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h2 align="center">Ranni: Taming Text-to-Image Diffusion for Accurate Prompt Following</h2>
+  <h2 align="center">Animate-X: Universal Character Image Animation with Enhanced Motion Representation</h2>
   <p align="center">
     <a href=""><strong>Shuai Tan</strong></a>
     ·
