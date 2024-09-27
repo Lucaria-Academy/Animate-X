@@ -2,7 +2,7 @@
 
   <h2 align="center">Animate-X: Universal Character Image Animation with Enhanced Motion Representation</h2>
   <p align="center">
-    <a href=""><strong>Shuai Tan</strong></a> · <a href="https://scholar.google.com/citations?user=BwdpTiQAAAAJ"><strong>Biao Gong</strong></a> · <a href="https://scholar.google.com.hk/citations?user=BwdpTiQAAAAJ&hl=zh-CN&oi=ao"><strong>Xiang Wang</strong></a> · <a href="https://scholar.google.com.hk/citations?user=ZO3OQ-8AAAAJ&hl=zh-CN&oi=sra"><strong>Shiwei Zhang</strong></a>
+    <a href=""><strong>Shuai Tan</strong></a> · <a href="https://scholar.google.com/citations?user=BwdpTiQAAAAJ"><strong>Biao Gong</strong></a> · <a href="https://scholar.google.com.hk/citations?user=cQbXvkcAAAAJ&hl=zh-CN&oi=sra"><strong>Xiang Wang</strong></a> · <a href="https://scholar.google.com.hk/citations?user=ZO3OQ-8AAAAJ&hl=zh-CN&oi=sra"><strong>Shiwei Zhang</strong></a>
     <br>
     <a href="#"><strong>Dandan Zheng</strong></a> · <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=S8FmqTUAAAAJ&view_op=list_works&sortby=pubdate"><strong>Ruobing Zheng</strong></a> · <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=hMDQifQAAAAJ&view_op=list_works&sortby=pubdate"><strong>Kecheng Zheng</strong></a> · <a href="#"><strong>Jingdong Chen</strong></a> · <a href="#"><strong>Ming Yang</strong></a>
     <br>
