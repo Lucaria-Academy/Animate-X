@@ -113,7 +113,7 @@ If you find this codebase useful for your research, please use the following ent
 @article{tan2024animate-x,
   title={Animate-X: Universal Character Image Animation with Enhanced Motion Representation},
   author={Tan, Shuai and Gong, Biao and Wang, Xiang and Zhang, Shiwei and Zheng, Dandan and Zheng, Ruobin and Zheng, Kecheng and Chen, Jingdong and Yang, Ming},
-  journal={arXiv preprint arXiv:xxxx.xxxx},
+  journal={arXiv preprint arXiv:2410.10306},
   year={2024}
 }
 ```
