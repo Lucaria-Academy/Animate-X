@@ -23,9 +23,9 @@
     </tr>
   </table>
 
-<!-- ## News
-- **2024 4.8**: Ranni is accepted as CVPR 2024 oral paper 🎉
-- **2024 4.3**: We release the v1 code of Ranni. -->
+## News
+- **2024 10.21**: Thank you all for your interest in Animate-X. The main reasons we haven't made the code public yet are: 1. The company needs to go through certain public approval processes, which take time. 2. We are currently cleaning up the code and preparing for open source in various aspects. We promise to release the code and the models by mid to late November. We appreciate your patience.
+
 
 ## TODO List
 - [ ] Release model, checkpoint and demo code.
