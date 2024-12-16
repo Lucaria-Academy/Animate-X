@@ -43,7 +43,7 @@ This repository is the official implementation of paper "Animate-X: Universal Ch
 
 
 ## &#x1F4CC; Updates
-- **2024 12.16** 🔥 We release our inference codes at [Animate-X](https://github.com/antgroup/animate-x).
+- **2024 12.16** 🔥 We release our inference codes at https://github.com/antgroup/animate-x.
 - **2024 11.25**: Thank you for your patience. Although the code is ready, due to the company's latest open-source policy, this project can only be open-sourced on https://github.com/antgroup, with an expected release in the spring of 2025. We sincerely apologize for the delay. Open-sourcing is **never easy**, and we kindly ask for your understanding.
 - **2024 10.21**: Thank you all for your interest in Animate-X. The main reasons we haven't made the code public yet are: 1. The company needs to go through certain public approval processes, which take time. 2. We are currently cleaning up the code and preparing for open source in various aspects. We promise to release the code and the models by mid to late November. We appreciate your patience.
 - **2024 10.1**: The project page and Arxiv paper of Animate-X are released.
