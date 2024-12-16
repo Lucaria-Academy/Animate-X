@@ -2,23 +2,38 @@
 
   <h2 align="center">Animate-X: Universal Character Image Animation with Enhanced Motion Representation</h2>
   <p align="center">
-    <a href=""><strong>Shuai Tan</strong></a> · <a href="https://scholar.google.com/citations?user=BwdpTiQAAAAJ"><strong>Biao Gong</strong></a> · <a href="https://scholar.google.com.hk/citations?user=cQbXvkcAAAAJ&hl=zh-CN&oi=sra"><strong>Xiang Wang</strong></a> · <a href="https://scholar.google.com.hk/citations?user=ZO3OQ-8AAAAJ&hl=zh-CN&oi=sra"><strong>Shiwei Zhang</strong></a>
-    <br>
-    <a href="#"><strong>Dandan Zheng</strong></a> · <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=S8FmqTUAAAAJ&view_op=list_works&sortby=pubdate"><strong>Ruobing Zheng</strong></a> · <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=hMDQifQAAAAJ&view_op=list_works&sortby=pubdate"><strong>Kecheng Zheng</strong></a> · <a href="#"><strong>Jingdong Chen</strong></a> · <a href="#"><strong>Ming Yang</strong></a>
+    <a href=""><strong>Shuai Tan</strong></a>
+    ·
+    <a href="https://scholar.google.com/citations?user=BwdpTiQAAAAJ"><strong>Biao Gong</strong></a><sup>†</sup>
+    ·
+    <a href="https://scholar.google.com/citations?user=cQbXvkcAAAAJ"><strong>Xiang Wang</strong></a>
+    ·
+    <a href="https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ"><strong>Shiwei Zhang</strong></a>
+    <br>
+    <a href="https://openreview.net/profile?id=~DanDan_Zheng1"><strong>Dandan Zheng</strong></a>
+    ·
+    <a href="https://scholar.google.com.hk/citations?user=S8FmqTUAAAAJ"><strong>Ruobing Zheng</strong></a>
+    ·
+    <a href="https://scholar.google.com/citations?user=hMDQifQAAAAJ"><strong>Kecheng Zheng</strong></a>
+    ·
+    <a href="https://openreview.net/profile?id=~Jingdong_Chen1"><strong>Jingdong Chen</strong></a>
+    ·
+    <a href="https://openreview.net/profile?id=~Ming_Yang2"><strong>Ming Yang</strong></a>            
     <br>
     <br>
-        <a href="https://arxiv.org/abs/2410.10306"><img src='https://img.shields.io/badge/arXiv-Animate_X-red' alt='Paper PDF'></a>
-        <a href='https://lucaria-academy.github.io/Animate-X/'><img src='https://img.shields.io/badge/Project_Page-Animate_X-blue' alt='Project Page'></a>
+        <a href="https://arxiv.org/abs/2410.10306"><img src='https://img.shields.io/badge/arXiv-Animate--X-red' alt='Paper PDF'></a>
+        <a href='https://lucaria-academy.github.io/Animate-X/'><img src='https://img.shields.io/badge/Project_Page-Animate--X-blue' alt='Project Page'></a>
     <br>
-    <b> Ant Group&nbsp; | &nbsp; Alibaba Group  </b>
+    <b></a>Ant Group &nbsp; | &nbsp; </a>Tongyi Lab  </b>
+    <br>
   </p>
+</p>
 
-  <!-- This repository is the official implementation of CVPR 2024 paper "Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following". It contains two main components: 1) a LLM-based planning model that maps text instructions into visual elements in image, 2) a diffusion-based painting model that draws image following the visual elements in first stage. Ranni achieves better semantic understanding thanks to the powerful ability of LLM. Currently, we release the model weights including a LoRA-finetuned LLaMa-2-7B, and a fully-finetuned SDv2.1 model. -->
-  
+This repository is the official implementation of paper "Animate-X: Universal Character Image Animation with Enhanced Motion Representation". Animate-X is a universal animation framework based on latent diffusion models for various character types (collectively named X), including anthropomorphic characters.
   <table align="center">
     <tr>
     <td>
-      <img src="https://img.alicdn.com/imgextra/i3/O1CN01QZs1bU1LoW68dhIb2_!!6000000001346-0-tps-1783-856.jpg">
+      <img src="https://github.com/user-attachments/assets/fb2f4396-341f-4206-8d70-44d8b034f810">
     </td>
     </tr>
   </table>
