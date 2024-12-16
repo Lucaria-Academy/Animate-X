@@ -7,7 +7,7 @@
     <a href="#"><strong>Dandan Zheng</strong></a> · <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=S8FmqTUAAAAJ&view_op=list_works&sortby=pubdate"><strong>Ruobing Zheng</strong></a> · <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=hMDQifQAAAAJ&view_op=list_works&sortby=pubdate"><strong>Kecheng Zheng</strong></a> · <a href="#"><strong>Jingdong Chen</strong></a> · <a href="#"><strong>Ming Yang</strong></a>
     <br>
     <br>
-        <a href="https://arxiv.org/abs/2311.17002"><img src='https://img.shields.io/badge/arXiv-Animate_X-red' alt='Paper PDF'></a>
+        <a href="https://arxiv.org/abs/2410.10306"><img src='https://img.shields.io/badge/arXiv-Animate_X-red' alt='Paper PDF'></a>
         <a href='https://lucaria-academy.github.io/Animate-X/'><img src='https://img.shields.io/badge/Project_Page-Animate_X-blue' alt='Project Page'></a>
     <br>
     <b> Ant Group&nbsp; | &nbsp; Alibaba Group  </b>
