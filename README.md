@@ -26,12 +26,15 @@
         <a href='https://lucaria-academy.github.io/Animate-X/'><img src='https://img.shields.io/badge/Project_Page-Animate--X-blue' alt='Project Page'></a>
         <a href='https://mp.weixin.qq.com/s/vDR4kPLqnCUwfPiBNKKV9A'><img src='https://badges.aleen42.com/src/wechat.svg'></a>
         <a href='https://huggingface.co/Shuaishuai0219/Animate-X'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow'></a>
+        <a href='https://github.com/antgroup/animate-x'><img src='https://img.shields.io/badge/Code-Animate--X-yellow'></a>
     <br>
     <b></a>Ant Group &nbsp; | &nbsp; </a>Tongyi Lab  </b>
     <br>
   </p>
 </p>
 
+[🔥 We release our inference codes at https://github.com/antgroup/animate-x ] 
+<br>
 This repository is the official implementation of paper "Animate-X: Universal Character Image Animation with Enhanced Motion Representation". Animate-X is a universal animation framework based on latent diffusion models for various character types (collectively named X), including anthropomorphic characters.
   <table align="center">
     <tr>
@@ -51,83 +54,6 @@ This repository is the official implementation of paper "Animate-X: Universal Ch
 
 ## TODO List
 - [x] Release model, checkpoint and demo code.
-
-
-
-<!-- ## Installation
-Install with `conda`: 
-```bash
-conda env create -f environment.yaml
-conda activate ranni
-```
-
-
-## Download Checkpoints
-Download Ranni [checkpoints](https://modelscope.cn/models/yutong/Ranni/files) and put all files in `model` dir, which should be like:
-```
-models/
-  llama2_7b_lora_bbox.pth
-  llama2_7b_lora_element.pth
-  ranni_sdv21_v1.pth
-```
-
-## Gradio demo 
-We present the interactivate image generation by running the gradio demo:
-
-```bash
-python demo_gradio.py
-```
-
-It should look like the UI shown below:
-
-<table align="center">
-  <tr>
-  <td>
-    <img src="assets/Figures/Gradio.png">
-  </td>
-  </tr>
-</table>
-
-### Tutorial for image generation
-Simply type in the image prompt. Click the button `text-to-panel` for generate semantic panel, then click the button `panel-to-image` for generate corresponding image:
-
-> prompt: A black dog and a white cat
-<table align="center">
-  <tr>
-  <td>
-    <img src="assets/Figures/demo_gradio_generation.png">
-  </td>
-  </tr>
-</table>
-
-
-### Tutorial for continuous editing
-After generating an image, you could modify the box answer to adjust the panel (modify the prompt if needed). Click button `refresh` to refresh the condition. Enable the checkbox `with memory` after the `panel-to-image`, then generate the modified image:
-
-> prompt: A black dog and a white cat
-> modification: black dog -> white dog
-
-<table align="center">
-  <tr>
-  <td>
-    <img src="assets/Figures/demo_gradio_editing.png">
-  </td>
-  </tr>
-</table>
-
-By operating on the boxes and prompts, you could achieve multiple editing operations in following types:
-<table align="center">
-  <tr>
-  <td>
-    <img src="assets/Figures/demo_gradio_ops.png">
-  </td>
-  </tr>
-</table> -->
-
-<!-- ## Acknowledgement
-This repository is based on the following codebases:
-* https://github.com/Stability-AI/stablediffusion
-* https://github.com/lllyasviel/ControlNet/ -->
 
 ## Citation
 If you find this codebase useful for your research, please use the following entry.
