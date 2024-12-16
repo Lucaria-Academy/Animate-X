@@ -1,3 +1,4 @@
+
 <p align="center">
 
   <h2 align="center">Animate-X: Universal Character Image Animation with Enhanced Motion Representation</h2>
@@ -23,6 +24,8 @@
     <br>
         <a href="https://arxiv.org/abs/2410.10306"><img src='https://img.shields.io/badge/arXiv-Animate--X-red' alt='Paper PDF'></a>
         <a href='https://lucaria-academy.github.io/Animate-X/'><img src='https://img.shields.io/badge/Project_Page-Animate--X-blue' alt='Project Page'></a>
+        <a href='https://mp.weixin.qq.com/s/vDR4kPLqnCUwfPiBNKKV9A'><img src='https://badges.aleen42.com/src/wechat.svg'></a>
+        <a href='https://huggingface.co/Shuaishuai0219/Animate-X'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow'></a>
     <br>
     <b></a>Ant Group &nbsp; | &nbsp; </a>Tongyi Lab  </b>
     <br>
@@ -38,14 +41,16 @@ This repository is the official implementation of paper "Animate-X: Universal Ch
     </tr>
   </table>
 
-## News
+
+## &#x1F4CC; Updates
+- **2024 12.16** 🔥 We release our inference codes at [Animate-X](https://github.com/antgroup/animate-x).
 - **2024 11.25**: Thank you for your patience. Although the code is ready, due to the company's latest open-source policy, this project can only be open-sourced on https://github.com/antgroup, with an expected release in the spring of 2025. We sincerely apologize for the delay. Open-sourcing is **never easy**, and we kindly ask for your understanding.
 - **2024 10.21**: Thank you all for your interest in Animate-X. The main reasons we haven't made the code public yet are: 1. The company needs to go through certain public approval processes, which take time. 2. We are currently cleaning up the code and preparing for open source in various aspects. We promise to release the code and the models by mid to late November. We appreciate your patience.
 - **2024 10.1**: The project page and Arxiv paper of Animate-X are released.
 
 
 ## TODO List
-- [ ] Release model, checkpoint and demo code.
+- [x] Release model, checkpoint and demo code.
 
 
 
