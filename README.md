@@ -58,10 +58,17 @@ This repository is the official implementation of paper "Animate-X: Universal Ch
 ## Citation
 If you find this codebase useful for your research, please use the following entry.
 ```BibTeX
-@article{tan2024animate-x,
+@article{AnimateX2025,
   title={Animate-X: Universal Character Image Animation with Enhanced Motion Representation},
-  author={Tan, Shuai and Gong, Biao and Wang, Xiang and Zhang, Shiwei and Zheng, Dandan and Zheng, Ruobin and Zheng, Kecheng and Chen, Jingdong and Yang, Ming},
+  author={Tan, Shuai and Gong, Biao and Wang, Xiang and Zhang, Shiwei and Zheng, Dandan and Zheng, Ruobing and Zheng, Kecheng and Chen, Jingdong and Yang, Ming},
   journal={arXiv preprint arXiv:2410.10306},
-  year={2024}
+  year={2025}
+}
+
+@article{Mimir2025,
+  title={Mimir: Improving Video Diffusion Models for Precise Text Understanding},
+  author={Tan, Shuai and Gong, Biao and Feng, Yutong and Zheng, Kecheng and Zheng, Dandan and Shi, Shuwei and Shen, Yujun and Chen, Jingdong and Yang, Ming},
+  journal={arXiv preprint arXiv:2412.03085},
+  year={2025}
 }
 ```
