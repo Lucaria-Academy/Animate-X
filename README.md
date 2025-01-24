@@ -46,6 +46,7 @@ This repository is the official implementation of paper "Animate-X: Universal Ch
 
 
 ## &#x1F4CC; Updates
+- **2025 01.23** 🎉 Our paper is accepted by ICLR 2025.
 - **2024 12.18** 🔥 This repository will no longer be maintained. For the latest version, please refer to https://github.com/antgroup/animate-x
 - **2024 12.16** 🔥 We release our inference codes at https://github.com/antgroup/animate-x
 - **2024 11.25**: Thank you for your patience. Although the code is ready, due to the company's latest open-source policy, this project can only be open-sourced on https://github.com/antgroup, with an expected release in the spring of 2025. We sincerely apologize for the delay. Open-sourcing is **never easy**, and we kindly ask for your understanding.
